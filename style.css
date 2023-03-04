@@ -327,9 +327,12 @@ div.project hr{
     margin-top: 15px;
     margin-left: -90px;
 width: 420px;
-height: 3px;
+height: 0.2px;
 position: absolute;
 background-color: white;
+}
+#arow{
+    color: yellow;
 }
 /* Footer */
 footer{
